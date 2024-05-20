@@ -30,9 +30,6 @@
 ### Convolutional Neural Network (CNN)
 <p>A CNN model architecture for learning spatial features from ECG signals.</p>
 
-### Recurrent Neural Network (RNN)
-<p>Long Short-Term Memory (LSTM) model for capturing temporal dependencies in ECG signals.</p>
-
 ### XGBoost
 <p>Gradient boosting algorithm for classification tasks.</p>
 
